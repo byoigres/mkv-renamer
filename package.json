@@ -1,0 +1,32 @@
+{
+  "name": "mkv-renamer",
+  "version": "0.1.0",
+  "description": "Rename your MKV file names &amp; metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byoigres/mkv-renamer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byoigres/mkv-renamer/issues"
+  },
+  "homepage": "https://github.com/byoigres/mkv-renamer#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "glob": "^7.1.6",
+    "prettier": "^2.2.1",
+    "yargs": "github:yargs/yargs"
+  }
+}

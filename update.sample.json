@@ -1,0 +1,65 @@
+{
+  "name": "The Plot",
+  "meta": {
+    "languages": {
+      "spa": {
+        "code": "spa",
+        "name": "Español"
+      },
+      "eng": {
+        "code": "eng",
+        "name": "English"
+      }
+    },
+    "renameFiles": true,
+    "video": {
+      "language": "eng"
+    },
+    "audio": [
+      {
+        "language": "spa",
+        "default": false
+      },
+      {
+        "language": "eng",
+        "default": true
+      }
+    ],
+    "subtitles": [
+      {
+        "language": "spa",
+        "default": false
+      },
+      {
+        "language": "eng",
+        "default": true
+      }
+    ]
+  },
+  "seasons": {
+    "1": {
+      "1": "Pilot",
+      "2": "One More Time",
+      "3": "Just Remember",
+      "4": "The Oasys",
+      "5": "The Greatest Show",
+      "6": "Ahoi!",
+      "7": "Just Shut Up",
+      "8": "Blessed",
+      "9": "The Door",
+      "10": "Unhappy"
+    },
+    "2": {
+      "1": "Record",
+      "2": "The Cave",
+      "3": "That Day",
+      "4": "The Other Side Of The Ocean",
+      "5": "Puppeteer",
+      "6": "On The Bus",
+      "7": "Not Now",
+      "8": "Repeat",
+      "9": "Unforgiven",
+      "10": "The Abyss"
+    }
+  }
+}
